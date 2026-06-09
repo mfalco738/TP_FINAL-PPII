@@ -57,5 +57,5 @@ public class Noticia {
         return comentarios;
     }
 
-    //anal
+    //anal sexo
 }

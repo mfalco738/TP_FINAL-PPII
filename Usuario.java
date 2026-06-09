@@ -17,7 +17,4 @@ public class Usuario extends Persona {
     public Integer getEdad(){
         return edad;
     }
-
-    //pene anal
-
 }

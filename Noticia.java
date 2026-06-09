@@ -56,6 +56,4 @@ public class Noticia {
     public ArrayList<Comentario> getComentario(){
         return comentarios;
     }
-
-    //anal sexo
 }

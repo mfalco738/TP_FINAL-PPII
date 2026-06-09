@@ -1,3 +1,4 @@
+
 public class SistemaNoticias {
     private Persona persona;
     private Usuario usuario;
